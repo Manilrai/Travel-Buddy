@@ -1,0 +1,57 @@
+[
+  {
+    "id": 7,
+    "senderId": 10,
+    "receiverId": 2,
+    "tripId": null,
+    "content": "dghgghjhkj",
+    "isRead": true,
+    "messageType": "text",
+    "createdAt": "2026-03-17T06:37:01.000Z",
+    "updatedAt": "2026-03-17T06:37:04.000Z"
+  },
+  {
+    "id": 6,
+    "senderId": 2,
+    "receiverId": 10,
+    "tripId": null,
+    "content": "hfhfjv",
+    "isRead": true,
+    "messageType": "text",
+    "createdAt": "2026-03-17T06:36:54.000Z",
+    "updatedAt": "2026-03-17T06:36:57.000Z"
+  },
+  {
+    "id": 5,
+    "senderId": 2,
+    "receiverId": 10,
+    "tripId": null,
+    "content": "fhhgv",
+    "isRead": true,
+    "messageType": "text",
+    "createdAt": "2026-03-17T06:36:36.000Z",
+    "updatedAt": "2026-03-17T06:36:49.000Z"
+  },
+  {
+    "id": 4,
+    "senderId": 2,
+    "receiverId": null,
+    "tripId": 5,
+    "content": "ghhj",
+    "isRead": false,
+    "messageType": "text",
+    "createdAt": "2026-03-17T06:35:38.000Z",
+    "updatedAt": "2026-03-17T06:35:38.000Z"
+  },
+  {
+    "id": 3,
+    "senderId": 2,
+    "receiverId": 3,
+    "tripId": null,
+    "content": "kkk",
+    "isRead": false,
+    "messageType": "text",
+    "createdAt": "2026-03-17T05:06:32.000Z",
+    "updatedAt": "2026-03-17T05:06:32.000Z"
+  }
+]

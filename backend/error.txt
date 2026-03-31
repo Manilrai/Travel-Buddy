@@ -1,0 +1,10 @@
+TypeError: sequelize.authenticate is not a function
+    at fixProfilePictures (C:\Users\Manil\OneDrive\Desktop\SYP\Travel-buddy-NipekshyaShakya-3\Travel-buddy-NipekshyaShakya-1\backend\fix-profiles.js:9:25)
+    at Object.<anonymous> (C:\Users\Manil\OneDrive\Desktop\SYP\Travel-buddy-NipekshyaShakya-3\Travel-buddy-NipekshyaShakya-1\backend\fix-profiles.js:53:1)
+    at Module._compile (node:internal/modules/cjs/loader:1812:14)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
